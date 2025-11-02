@@ -2,15 +2,23 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Hi! I’m Ya Wu, an M.S. student at the Institute of Computing Technology, Chinese Academy of Sciences (CAS).  
+I’m passionate about exploring how **large language models** can **align with human values** and contribute to **trustworthy AI**.
+
+Currently, I’m seeking Ph.D. opportunities in Natural Language Processing (NLP)**, **Value Alignment**, and **AI Safety**.
+
+You can find me here:
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: wuya23s@ict.ac.cn
+GitHub: [isir-wuya](https://github.com/isir-wuya)  
+Google Scholar: [link-to-your-scholar-profile]
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+**M.S. in Computer Technology**, Institute of Computing Technology, Chinese Academy of Sciences, *2023—2026 (expected)*  
+**B.E. in Computer Science and Technology**, Beijing Foreign Studies University, *2019—2023*
+
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
