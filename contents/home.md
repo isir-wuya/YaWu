@@ -4,7 +4,8 @@
 Hi! I’m Ya Wu, an M.S. student at the Institute of Computing Technology, Chinese Academy of Sciences (CAS).  
 I’m passionate about exploring how **large language models** can **align with human values** and contribute to **trustworthy AI**.
 
-Currently, I’m seeking Ph.D. opportunities in Natural Language Processing (NLP)**, **Value Alignment**, and **AI Safety**.
+<span style="color:#e63946; font-weight:bold;">Currently, I’m seeking Ph.D. opportunities in <strong>NLP</strong>, <strong>Value Alignment</strong>, and <strong>AI Safety</strong>.</span>
+
 
 You can find me here:
 
