@@ -1,6 +1,5 @@
+[![isir-wuya](https://img.shields.io/badge/isir--wuya-github-blue?logo=github)](https://github.com/isir-wuya)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 Hi! I’m Ya Wu, an M.S. student at the Institute of Computing Technology, Chinese Academy of Sciences (CAS).  
 I’m passionate about exploring how **large language models** can **align with human values** and contribute to **trustworthy AI**.
