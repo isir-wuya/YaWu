@@ -15,7 +15,7 @@ Email: wuya23s@ict.ac.cn
 
 GitHub: [isir-wuya](https://github.com/isir-wuya)  
 
-Google Scholar: [link-to-your-scholar-profile]
+Google Scholar: [Link](https://scholar.google.com/citations?user=aaz-LdwAAAAJ&hl=zh-CN)
 
 #### Education
 **M.S. in Computer Technology**, Institute of Computing Technology, Chinese Academy of Sciences, *2023—2026 (expected)*  
